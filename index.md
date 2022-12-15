@@ -5,7 +5,7 @@
 ### Graphic Design project
 
 [Project 1 stencil art]()
-<img src="images/science.jpg?raw=true"/>
+<img src="images/scien.jpg?raw=true"/>
 
 ---
 [Project 2 pop art](/pdf/sample_presentation.pdf)
