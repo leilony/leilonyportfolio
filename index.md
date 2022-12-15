@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Graphic Design project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 stencil art]()
+<img src="images/science.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
