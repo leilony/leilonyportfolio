@@ -12,7 +12,7 @@
 <img src="images/pop art.jpg?raw=true"/>
 
 ---
-[Project 3 Graffite](http://example.com/)
+[Project 3 graffite](http://example.com/)
 <img src="images/graffite.jpg?raw=true"/>
 
 ---
