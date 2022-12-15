@@ -18,8 +18,8 @@
 [Project 4 drake]
 <img src="images/drake.jpg?raw=true"/>
 
-[Project 5 graffite](http://example.com/)
-<img src="images/graffite.png?raw=true"/>
+[Project 5 flower bloom](http://example.com/)
+<img src="images/blue-flower-illustration-erin-walace.jpg?raw=true"/>
 
 
 ---
