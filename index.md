@@ -19,7 +19,7 @@
 <img src="images/drake.jpg?raw=true"/>
 
 [Project 5 flower](http://example.com/)
-<img src="images/blue-flower-illustration-erin-walace.jpg?raw=true"/>
+<img src="images/blue-flower-illustration-erin-wallace.jpg?raw=true"/>
 
 
 ---
