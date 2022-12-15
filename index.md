@@ -4,15 +4,21 @@
 
 ### Graphic Design project
 
-[Project 1 stencil art]()
+[Project 1 stencil art]
 <img src="images/scien.jpg?raw=true"/>
 
 ---
-[Project 2 pop art](/pdf/sample_presentation.pdf)
+[Project 2 pop art]
 <img src="images/pop art.jpg?raw=true"/>
 
 ---
-[Project 3 jcole](http://example.com/)
+[Project 3 jcole]
+<img src="images/jcole.jpg?raw=true"/>
+
+[Project 4 drake]
+<img src="images/drake.jpg?raw=true"/>
+
+[Project 5 jcole](http://example.com/)
 <img src="images/jcole.jpg?raw=true"/>
 
 
