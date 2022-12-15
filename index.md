@@ -12,8 +12,9 @@
 <img src="images/pop art.jpg?raw=true"/>
 
 ---
-[Project 3 graffite](http://example.com/)
-<img src="images/graffite.jpg?raw=true"/>
+[Project 3 jcole](http://example.com/)
+<img src="images/jcole.jpg?raw=true"/>
+
 
 ---
 
